@@ -1,6 +1,7 @@
 # RitualSummonCheat
 
 Requires BepInEx, Configuration Manager
+
 Requires Game version 1.01
 
 Features:
